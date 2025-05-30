@@ -188,10 +188,4 @@ Enter your name: Mostafa
 - Include your operating system and compiler version when reporting bugs
 
 ## Authors
-
-- Ahmed Medhat (@ahmedmedhat296) - *Initial work*
-
-## Acknowledgments
-
-- Thanks to the Unix socket programming community
-- Inspired by classic IRC servers
+- Ahmed Medhat (@ahmedmedhat296)
