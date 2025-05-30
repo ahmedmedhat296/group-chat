@@ -188,4 +188,5 @@ Enter your name: Mostafa
 - Include your operating system and compiler version when reporting bugs
 
 ## Authors
-- Ahmed Medhat (@ahmedmedhat296)
+- [@ahmedmedhat296](https://github.com/ahmedmedhat296)
+- [@mostefmedhat](https://github.com/mostefmedhat)
